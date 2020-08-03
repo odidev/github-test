@@ -20,3 +20,6 @@ matrix:
 
 install:
   - uname -m
+
+notifications:
+  email: false
